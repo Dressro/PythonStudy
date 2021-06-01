@@ -1,0 +1,11 @@
+# list 
+
+# 생성자
+a = list()
+print(a)
+a.append(1)
+print(a)
+a.append('a')
+print(a)
+a[1] = 'b'
+print(a)

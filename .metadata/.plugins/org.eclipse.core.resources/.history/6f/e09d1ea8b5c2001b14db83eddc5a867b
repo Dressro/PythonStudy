@@ -1,0 +1,18 @@
+# list 
+
+# 생성자
+a = list()
+print(a)
+a.append(1)
+print(a)
+a.append('a')
+print(a)
+a[1] = 'b'
+print(a)
+
+# [] 사용
+b = [1,2,3,4,5]
+print(b)
+
+sum = b[0] + b[3]
+print(sum)

@@ -1,0 +1,28 @@
+# 문자
+
+# single * 1
+a = 'python \'s\nHello, World!'
+print(a)
+
+# single * 3
+b = ''' python's
+Hello, World!
+    Hello, World!
+        hello Qclass
+
+'''
+print(b)
+
+# double * 1
+c = "abc\" def\" ghi"
+print(c)
+
+#double * 3
+d = """ abc " def " ghi """
+print(d)
+
+e = 'abc"def"ghi\npython\'s string'
+print(e)
+
+f = "abc'def'ghi\npython's string"
+print(f)

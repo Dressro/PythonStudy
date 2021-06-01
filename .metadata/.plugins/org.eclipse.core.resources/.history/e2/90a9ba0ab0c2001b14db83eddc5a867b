@@ -1,0 +1,6 @@
+# number
+
+# 정수형
+a = 100
+print(a)
+print(type(a))

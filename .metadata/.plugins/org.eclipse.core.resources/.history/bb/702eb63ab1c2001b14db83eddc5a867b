@@ -1,0 +1,14 @@
+# 문자
+
+# single * 1
+a = 'python \'s\nHello, World!'
+print(a)
+
+# single * 3
+b = ''' python's
+Hello, World!
+    Hello, World!
+        hello Qclass
+
+'''
+print(b)

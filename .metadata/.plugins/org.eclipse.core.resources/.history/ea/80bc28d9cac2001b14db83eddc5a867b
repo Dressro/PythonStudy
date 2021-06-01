@@ -1,0 +1,4 @@
+subject = ['java','javascript','python']
+
+for s in subject:
+    print(s,end=' ')

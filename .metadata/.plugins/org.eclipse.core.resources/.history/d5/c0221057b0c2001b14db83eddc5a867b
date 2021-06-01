@@ -1,0 +1,10 @@
+# number
+
+# 정수형
+a = 100
+print(a)
+print(type(a))
+
+print(int(9.8))
+print(int(7/6))
+print(int('5')+1)

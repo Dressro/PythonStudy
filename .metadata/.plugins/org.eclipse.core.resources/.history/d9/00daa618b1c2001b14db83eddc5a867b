@@ -1,0 +1,5 @@
+# 문자
+
+# single * 1
+a = 'python \'s\nHello, World!'
+print(a)

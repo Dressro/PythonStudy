@@ -1,0 +1,5 @@
+import re
+
+#split
+str01 = 'Hello, world!\nHellom python!'
+print(str01)

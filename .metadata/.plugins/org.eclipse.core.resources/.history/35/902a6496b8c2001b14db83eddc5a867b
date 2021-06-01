@@ -1,0 +1,9 @@
+# set
+
+# 생성자
+a = set(['1','2','3','4','1'])
+print(a)
+
+# 생성자에 iterable한 객체를 넣으면 set의 값으로 변환
+b = set('hello')
+print(b)

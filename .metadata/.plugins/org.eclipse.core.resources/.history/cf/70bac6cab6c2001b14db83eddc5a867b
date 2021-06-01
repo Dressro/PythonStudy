@@ -1,0 +1,7 @@
+# tuple : list와 거의 같다
+
+# 생성자 사용
+a = tuple()
+print(a)
+b=tuple([1,2,'3'])
+print(b)

@@ -1,0 +1,32 @@
+# 산술연산
+a = 21
+b = 2
+
+print(a + b)
+print(a - b)
+print(a * b)
+print(a ** b)  # a^b
+print(a / b)
+print(a // b)  # 몫 (floor division - 소수점 이하는 버린다.)
+print(a % b)
+
+# 비교연산
+a, b = 5, 3
+
+print (a == b)
+print(a != b)
+print(a > b)
+print(a <= b)
+print(a is b)
+print(a is not b)
+
+print(True or True)
+print(True or False)
+
+# 범위 연산
+# range(n) : 0 <= n
+list01 = list(range(100))
+print(list01)
+
+print(list01[2])
+print(list01[12:49])

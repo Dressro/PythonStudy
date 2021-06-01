@@ -1,0 +1,6 @@
+subject = ['java','javascript','python']
+
+for s in subject:
+    print(s,end=' ')
+else:
+    print('재밋다.')

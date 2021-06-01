@@ -1,0 +1,40 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Workspaces\Workspace_python\.metadata\.plugins\org.eclipse.core.resources\.projects\Python01\com.python.pydev.analysis\v2_indexcache
+com.test01.control02_for|1622546859446850000|C:\Workspaces\Workspace_python\Python01\com\test01\control02_for.py
+com.test01.__init__|1622545824625180000|C:\Workspaces\Workspace_python\Python01\com\test01\__init__.py
+com.__init__|1622545824619220000|C:\Workspaces\Workspace_python\Python01\com\__init__.py
+com.test01.control01_if|1622546035319407000|C:\Workspaces\Workspace_python\Python01\com\test01\control01_if.py
+com.test01.control04_break_continue|1622547468634371000|C:\Workspaces\Workspace_python\Python01\com\test01\control04_break_continue.py
+com.test01.control03_while|1622547162736750000|C:\Workspaces\Workspace_python\Python01\com\test01\control03_while.py
+com.test01.fibo01|1622548082949861000|C:\Workspaces\Workspace_python\Python01\com\test01\fibo01.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+8=com.test01.control02_for
+7=C:\Workspaces\Workspace_python\Python01\com\test01\control02_for.py
+2=com.test01.control01_if
+1=C:\Workspaces\Workspace_python\Python01\com\test01\control01_if.py
+9=C:\Workspaces\Workspace_python\Python01\com\test01\fibo01.py
+4=com.test01.control04_break_continue
+3=C:\Workspaces\Workspace_python\Python01\com\test01\control04_break_continue.py
+5=C:\Workspaces\Workspace_python\Python01\com\test01\control03_while.py
+6=com.test01.control03_while
+10=com.test01.fibo01
+-- END DICTIONARY
+-- START TREE 1
+10
+a|1|a!1^1#1*19@
+b|1|b!1^8#1*19@
+i|2|i!3^1#1*35@i!5^1#1*51@
+mul|1|mul!7^17#9*67@
+myc|1|mycount!5^7#1*51@
+mys|1|mysum!5^6#1*51@
+n|1|n!9^1#1*83@
+nex|1|next_num!9^5#1*83@
+sta|1|start!9^4#1*83@
+sub|1|subject!7^1#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
