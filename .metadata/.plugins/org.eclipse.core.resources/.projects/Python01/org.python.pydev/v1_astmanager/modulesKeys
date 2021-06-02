@@ -1,1 +1,10 @@
 MODULES_MANAGER_V3
+com.__init__|C:\Workspaces\Workspace_python\Python01\com\__init__.py
+com.test01.__init__|C:\Workspaces\Workspace_python\Python01\com\test01\__init__.py
+com.test01.control01_if|C:\Workspaces\Workspace_python\Python01\com\test01\control01_if.py
+com.test01.control02_for|C:\Workspaces\Workspace_python\Python01\com\test01\control02_for.py
+com.test01.control03_while|C:\Workspaces\Workspace_python\Python01\com\test01\control03_while.py
+com.test01.control04_break_continue|C:\Workspaces\Workspace_python\Python01\com\test01\control04_break_continue.py
+com.test01.fibo01|C:\Workspaces\Workspace_python\Python01\com\test01\fibo01.py
+com.test02.__init__|C:\Workspaces\Workspace_python\Python01\com\test02\__init__.py
+com.test02.star01|C:\Workspaces\Workspace_python\Python01\com\test02\star01.py
