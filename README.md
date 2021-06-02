@@ -67,3 +67,30 @@ r  문자열 표기법 (re 모듈의 확장 문법)
 if , for ,while 을 적용하기 위해서는 space 2 , space 4 , 1tab을 해야만 함 
 
 파이썬 개발자는 space 4를 권장
+
+## 2일차
+-*- coding:utf-8 -*-
+python 에서의 인코딩 방법!
+
+__변수__ : 내부적으로 사용하는 변수
+
+pip install numpy -> 수치해석,숫자,행렬 ...
+pip install matplotlib -> 시각화 (그래프)
+
+파일 옵션
+'''
+r : 읽기
+w : 쓰기 (기존 내용 덮어쓰기)
+a : 쓰기 (기존 내용 이어서쓰기)
+x : 새로운 파일 만들어서 쓰기
+t / b : text / binary (default : t)
+'''
+
+크롤링
+
+resp = urllib.request.urlopen('https://movie.naver.com/movie/running/current.nhn')
+soup = BeautifulSoup(resp,'html.parser')
+
+-> 해당 정보를 가지고 옴
+
+find() -> 해당 태그를 통해서 값을 찾을 수 있음
