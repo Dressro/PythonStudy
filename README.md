@@ -94,3 +94,27 @@ soup = BeautifulSoup(resp,'html.parser')
 -> 해당 정보를 가지고 옴
 
 find() -> 해당 태그를 통해서 값을 찾을 수 있음
+
+## 3일차
+크롤링
+
+.\basic\Scripts\activate.bat
+
+pip install selenium
+-> 테스트 도구
+
+인스타그램의 사진을 크롤링을 하기 위해
+-> 인스타그램 사진은 ajax로 받아오는 것이므로 바로 가지고 올 수 없음
+
+그래서 driver를 통해서 가지고 와야 함
+
+구글 driver를 다운 받은 후 
+
+driver = webdriver.Chrome('C:\webdrivers\chromedriver.exe')
+-> 자동으로 인터넷을 연결해주는 드라이버 
+
+driver.implicitly_wait(3)
+-> 3초 기달림
+
+driver.get(url)
+-> url 로 연결해 줌
