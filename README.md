@@ -118,3 +118,10 @@ driver.implicitly_wait(3)
 
 driver.get(url)
 -> url 로 연결해 줌
+
+## 4일차
+flask -> 파이썬으로 서버 만들기
+
+render_template -> 플라스크의 Jinja2 템플릿 엔진을 사용해서 html 문서 내에 코드 조각들을 삽입하여 웹 페이지를 동적으로 생성함
+
+사용방법 render_template('링크' , 다음 링크로 가지고 가는 값) 
