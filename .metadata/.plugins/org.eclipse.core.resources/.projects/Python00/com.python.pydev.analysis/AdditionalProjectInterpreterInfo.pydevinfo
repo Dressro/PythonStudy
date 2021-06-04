@@ -14,14 +14,15 @@ com.test01.type03|1622537302319663000|C:\Workspaces\Workspace_python\Python00\co
 com.test02.built_in|1622542191718289000|C:\Workspaces\Workspace_python\Python00\com\test02\built_in.py
 com.test02.opr|1622543408088981000|C:\Workspaces\Workspace_python\Python00\com\test02\opr.py
 com.test02.__init__|1622541763357475000|C:\Workspaces\Workspace_python\Python00\com\test02\__init__.py
+com.test02.split_join|1622545737724699000|C:\Workspaces\Workspace_python\Python00\com\test02\split_join.py
 com.test02.regex|1622544434272446000|C:\Workspaces\Workspace_python\Python00\com\test02\regex.py
 -- END DISKCACHE
 -- START DICTIONARY
-20
+22
 3=C:\Workspaces\Workspace_python\Python00\com\test01\type02.py
 16=com.test01.type04
 10=com.test01.type05
-18=com.test01.type06
+20=com.test01.type06
 1=C:\Workspaces\Workspace_python\Python00\com\test02\opr.py
 8=com.test01.type01
 4=com.test01.type02
@@ -29,31 +30,33 @@ com.test02.regex|1622544434272446000|C:\Workspaces\Workspace_python\Python00\com
 14=com.test01.type03
 6=com.test02.built_in
 5=C:\Workspaces\Workspace_python\Python00\com\test02\built_in.py
-19=C:\Workspaces\Workspace_python\Python00\com\test02\regex.py
+17=C:\Workspaces\Workspace_python\Python00\com\test02\split_join.py
+21=C:\Workspaces\Workspace_python\Python00\com\test02\regex.py
 2=com.test02.opr
 11=C:\Workspaces\Workspace_python\Python00\com\test01\start.py
 9=C:\Workspaces\Workspace_python\Python00\com\test01\type05.py
+18=com.test02.split_join
 7=C:\Workspaces\Workspace_python\Python00\com\test01\type01.py
-17=C:\Workspaces\Workspace_python\Python00\com\test01\type06.py
-20=com.test02.regex
+19=C:\Workspaces\Workspace_python\Python00\com\test01\type06.py
+22=com.test02.regex
 13=C:\Workspaces\Workspace_python\Python00\com\test01\type03.py
 15=C:\Workspaces\Workspace_python\Python00\com\test01\type04.py
 -- END DICTIONARY
 -- START TREE 1
 14
 a|8|a!1^2#1*19@a!3^4#1*35@a!5^15#1*51@a!7^4#1*67@a!9^4#1*83@a!11^8#1*99@a!13^4#1*115@a!15^4#1*131@
-arr|0|
+arr|4|arr03!17^13#1*147@arr02!17^10#1*147@arr01!17^7#1*147@arr04!17^17#1*147@
 b|7|b!9^8#1*83@b!11^9#1*99@b!15^6#1*131@b!3^13#1*35@b!1^3#1*19@b!13^14#1*115@b!7^13#1*67@
-c|4|c!13^30#1*115@c!7^22#1*67@c!3^17#1*35@c!9^12#1*83@
-d|3|d!7^25#1*67@d!15^13#1*131@d!3^21#1*35@
-dic|2|dict02!17^10#1*147@dict01!17^4#1*147@
-e|3|e!15^18#1*131@e!3^24#1*35@e!7^28#1*67@
-f|2|f!15^22#1*131@f!3^27#1*35@
+c|4|c!9^12#1*83@c!13^30#1*115@c!7^22#1*67@c!3^17#1*35@
+d|3|d!15^13#1*131@d!3^21#1*35@d!7^25#1*67@
+dic|2|dict02!19^10#1*163@dict01!19^4#1*163@
+e|3|e!3^24#1*35@e!7^28#1*67@e!15^18#1*131@
+f|2|f!3^27#1*35@f!15^22#1*131@
 g|1|g!3^31#1*35@
 h|1|h!3^33#1*35@
-lis|2|list01!1^28#1*19@list02!1^53#1*19@
-mat|1|match!19^40#1*163@
-str|5|str02!3^38#1*35@str01!19^39#1*163@str01!1^38#1*19@str02!19^43#1*163@str01!3^37#1*35@
+lis|2|list02!1^53#1*19@list01!1^28#1*19@
+mat|1|match!21^40#1*179@
+str|6|str01!1^38#1*19@str02!21^43#1*179@str02!3^38#1*35@str01!3^37#1*35@str01!21^39#1*179@str01!17^4#1*147@
 sum|1|sum!13^17#1*115@
 -- END TREE
 -- START TREE 2

@@ -7,7 +7,7 @@ b=tuple([1,2,'3'])
 print(b)
 
 # 값을 추가/수정/삭제 할 수 없다
-# aappend(1)
+# a.append(1)
 
 # () 사용
 d = tuple(range(3,6))
