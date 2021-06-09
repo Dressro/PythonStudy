@@ -1,6 +1,7 @@
 MODULES_MANAGER_V3
 com.__init__|C:\Workspaces\Workspace_python\Python00\com\__init__.py
 com.test01.__init__|C:\Workspaces\Workspace_python\Python00\com\test01\__init__.py
+com.test01.star02|C:\Workspaces\Workspace_python\Python00\com\test01\star02.py
 com.test01.start|C:\Workspaces\Workspace_python\Python00\com\test01\start.py
 com.test01.test|C:\Workspaces\Workspace_python\Python00\com\test01\test.py
 com.test01.type01|C:\Workspaces\Workspace_python\Python00\com\test01\type01.py

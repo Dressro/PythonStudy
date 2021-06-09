@@ -1,9 +1,0 @@
-subject = ['java','javascript','python']
-
-for s in subject:
-    print(s,end=' ')
-else:
-    print('재밋다.')
-
-for i in range(1,100):
-    print(i)

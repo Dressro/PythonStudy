@@ -1,7 +1,0 @@
-#dictionary
-
-#생성자
-dict01 = dict()
-dict01[1] = 1
-dict01[2] = '2'
-print(dict01)

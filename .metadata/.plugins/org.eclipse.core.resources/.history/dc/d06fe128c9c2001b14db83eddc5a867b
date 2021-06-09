@@ -1,8 +1,0 @@
-import re
-
-#split
-str01 = 'Hello, world!\nHellom python!'
-print(str01)
-
-arr01 = str01.split(' ')
-print(arr01)

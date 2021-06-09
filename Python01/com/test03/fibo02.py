@@ -1,16 +1,21 @@
 def fibo01(n):
     start = 0
     next_num = 1
-    print(start, next_num, end=" ")
-    for i in range(1, n):
-        start, next_num = next_num, start + next_num
-        print(next_num, end=" ")
+    print(start, end = " ")
+    while next_num <= n:
+        print(next_num, end= " ")
+        start, next_num = next_num, start+next_num
+
+        
 
 
 def fibo02(n):
     list = [0,1]
-    for i in range(0, n):
+    i = 0
+    while list[i]+list[i+1] <=n:
         list.append(list[i]+list[i+1])
+        print(list[i] , i)
+        i += 1
     return list
 
 if __name__ == "__main__":

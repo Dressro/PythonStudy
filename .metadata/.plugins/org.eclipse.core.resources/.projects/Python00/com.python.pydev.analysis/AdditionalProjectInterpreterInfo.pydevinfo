@@ -1,7 +1,7 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Workspaces\Workspace_python\.metadata\.plugins\org.eclipse.core.resources\.projects\Python00\com.python.pydev.analysis\v2_indexcache
-com.test01.type04|1622537788582186000|C:\Workspaces\Workspace_python\Python00\com\test01\type04.py
+com.test01.type04|1622801410379624000|C:\Workspaces\Workspace_python\Python00\com\test01\type04.py
 com.test01.test|1622533667846437000|C:\Workspaces\Workspace_python\Python00\com\test01\test.py
 com.test01.type05|1622538361794459000|C:\Workspaces\Workspace_python\Python00\com\test01\type05.py
 com.test01.type06|1622538897136283000|C:\Workspaces\Workspace_python\Python00\com\test01\type06.py
@@ -11,11 +11,12 @@ com.test01.type01|1622534894189130000|C:\Workspaces\Workspace_python\Python00\co
 com.test01.start|1622534577178601000|C:\Workspaces\Workspace_python\Python00\com\test01\start.py
 com.test01.type02|1622535563114441000|C:\Workspaces\Workspace_python\Python00\com\test01\type02.py
 com.test01.type03|1622537302319663000|C:\Workspaces\Workspace_python\Python00\com\test01\type03.py
+com.test01.star02|1622802508625138000|C:\Workspaces\Workspace_python\Python00\com\test01\star02.py
 com.test02.built_in|1622542191718289000|C:\Workspaces\Workspace_python\Python00\com\test02\built_in.py
 com.test02.opr|1622543408088981000|C:\Workspaces\Workspace_python\Python00\com\test02\opr.py
 com.test02.__init__|1622541763357475000|C:\Workspaces\Workspace_python\Python00\com\test02\__init__.py
 com.test02.split_join|1622545737724699000|C:\Workspaces\Workspace_python\Python00\com\test02\split_join.py
-com.test02.regex|1622544434272446000|C:\Workspaces\Workspace_python\Python00\com\test02\regex.py
+com.test02.regex|1622979089143638000|C:\Workspaces\Workspace_python\Python00\com\test02\regex.py
 -- END DISKCACHE
 -- START DICTIONARY
 22
