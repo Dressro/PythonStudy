@@ -125,3 +125,13 @@ flask -> 파이썬으로 서버 만들기
 render_template -> 플라스크의 Jinja2 템플릿 엔진을 사용해서 html 문서 내에 코드 조각들을 삽입하여 웹 페이지를 동적으로 생성함
 
 사용방법 render_template('링크' , 다음 링크로 가지고 가는 값) 
+
+## mongo 연결
+
+1. pymongo를 다운 받아준다
+2. from pymongo import MongoClient 를 통해 mongodb를 사용한다
+(pymongo 중 mongoclient만 사용한다는 뜻)
+3. client = MongoClient('localhost', 27017) mongodb를 연결한다
+4. db = client.test 사용하고자 하는 db를 연결한다
+5. collection = db.score 사용하고자 하는 컬렉션을 연결한다.
+
